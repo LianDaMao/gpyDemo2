@@ -46,7 +46,7 @@ ul { list-style: none; padding-left: 0px; margin: 0px; }
 #ImgSizeEditor input[type='button'] { padding: 5px 5px; margin: 6px 5px 0; }
 /*#dwtcontrolContainer*/
 #dwtcontrolContainer { float: left; width: 585px; height: 513px; }
-#dwtcontrolContainer .dynamsoft-dwt-container-box > div { border: none !important; }
+/* #dwtcontrolContainer .dynamsoft-dwt-container-box > div { border: none !important; } */
 #dwt-NonInstallContainerID { float: left; width: 560px; height: 590px; }
 /*#btnGroupBtm*/
 #DWTcontainerTop #btnGroupBtm { position: absolute; left: 60px; bottom: 0; padding: 14px 25px 15px 90px; width: 585px; height: 57px; background: #f5f5f5; border-top: 1px solid #ccc; font-size: 14px; color: #606060; }
